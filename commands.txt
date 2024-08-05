@@ -1,0 +1,5 @@
+Prisma initialize
+npx prisma init
+
+Prisma Schema migrate 
+npx prisma migrate dev --name <task-done>
